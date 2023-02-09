@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4242cC7B86a544A38813D66115341212f4d9c67F",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x4242cc7b86a544a38813d66115341212f4d9c67f",
+  "NETWORK": {
+    "NAME": "GoerliETH",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "BC Vocalo NFT 2",
+  "SYMBOL": "BC Vocalo SBT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 1000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/unidentified-contract-rav2vpco7z",
+  "SHOW_BACKGROUND": false
+}
